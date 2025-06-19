@@ -19,9 +19,11 @@ A modern, high-performance e-commerce application built with React 19, Vite, Red
 
 ### Prerequisites
 
-- Node.js (v18 or later recommended)
-- npm (v9 or later) or yarn (v1.22+)
+- Node.js (v18.17.0 or v20.5.0+ required)
+- npm (v10.2.0 required)
 - Git
+
+> **Note**: We recommend using [nvm](https://github.com/nvm-sh/nvm) (Node Version Manager) to manage Node.js versions. After installing nvm, run `nvm use` in the project directory to automatically switch to the correct Node.js version.
 
 ### Local Development
 
