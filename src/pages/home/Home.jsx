@@ -2,7 +2,7 @@ import React from "react";
 import Nav from "../../components/nav/Nav";
 import bg from "../../assets/bg0.gif";
 import "./Home.css";
-import { categoy } from "../../Category";
+import { categoy } from "../../category";
 import { dummydata } from "../../dummydata";
 import Product from "../../components/Product/Product";
 import { useState } from "react";
