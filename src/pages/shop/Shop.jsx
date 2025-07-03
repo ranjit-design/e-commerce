@@ -1,6 +1,6 @@
 import React, { useState } from 'react'
 import './Shop.css'
-import { categoy } from '../../Category';
+import { categoy } from '../../category';
 import { dummydata } from '../../dummydata';
 import { FaShopify } from "react-icons/fa";
 import Product from '../../components/Product/Product';
